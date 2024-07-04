@@ -1,0 +1,12 @@
+.lo utilizamos para añadir el link directo al repositorio que creamos
+si no lo hacemos se envia a el link anterior
+
+.git add añade en el area de preparacion y git push envia los commits
+locales al repositorio remoto
+
+.sirve para empujarlo al origen principal
+
+.las 3 etapas/estados que pueden haber son 3
+1)son los archivos que no se subieron
+2)es el archivo seleccionado
+3)son los archivos que ya estan listos para subirse
